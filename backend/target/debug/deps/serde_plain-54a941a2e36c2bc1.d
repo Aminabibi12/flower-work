@@ -1,0 +1,11 @@
+/Users/occ-113/flower-work/backend/target/debug/deps/libserde_plain-54a941a2e36c2bc1.rmeta: /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs
+
+/Users/occ-113/flower-work/backend/target/debug/deps/libserde_plain-54a941a2e36c2bc1.rlib: /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs
+
+/Users/occ-113/flower-work/backend/target/debug/deps/serde_plain-54a941a2e36c2bc1.d: /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs /Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs
+
+/Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/lib.rs:
+/Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/de.rs:
+/Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/error.rs:
+/Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/macros.rs:
+/Users/occ-113/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_plain-1.0.2/src/ser.rs:
